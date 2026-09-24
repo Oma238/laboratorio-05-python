@@ -1,3 +1,4 @@
+# MVP del proyecto Laboratorio 05 interactivo
 import tkinter as tk
 from tkinter import messagebox
 import random
